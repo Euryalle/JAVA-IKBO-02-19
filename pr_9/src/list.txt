@@ -1,0 +1,5 @@
+Student{ name='евгений', grade=2}
+Student{ name='артем', grade=3}
+Student{ name='андрей', grade=4}
+Student{ name='дмитрий', grade=5}
+Student{ name='антон', grade=5}
